@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>HiddenLab.qml</file>
+        <file>MainMenu.qml</file>
+        <file>MainMenuButton.qml</file>
+        <file>Gameplay.qml</file>
+    </qresource>
+</RCC>
